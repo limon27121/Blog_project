@@ -8,3 +8,42 @@
   font-weight: 400;
   font-family: "roboto";
 }
+/* header section start */
+.header1 {
+  text-align: center;
+  color: blueviolet;
+}
+.header2 {
+  width: 100%;
+  background-color: black;
+}
+.logo {
+  color: white;
+  padding-top: 16px;
+  padding-right: 15px;
+  /* padding-left: 15px; */
+}
+
+ul {
+  overflow: hidden;
+  padding-left: 60px;
+  /* text-align: center; */
+}
+
+li {
+  float: left;
+  transition: all 0.4s;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+/* header section ends */
