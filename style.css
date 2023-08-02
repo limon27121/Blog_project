@@ -212,7 +212,7 @@ padding-top: 10px;
 /* <!-- blog post section starts --> */
 
 .blog_post{
-  height: 800px;
+  height: 1200px;
 }
 .heading{
   font-weight: 400px;
@@ -277,4 +277,35 @@ padding-top: 10px;
 
 .blogs:hover{
   transform: scale(1.1);
+}
+
+
+/* <!-- contact me section starts here --> */
+
+
+.contact_me{
+  background-color: aqua;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 500px;
+  height: 380px;
+  margin-top: 10px;
+ 
+}
+.contact_heading{
+  text-align: center;
+  font-weight: 200px ;
+  font-size: 50px;
+  padding-top: 10px;
+  font-style: italic;
+   
+}
+.form{
+  padding-left: 30%;
+  padding-top: 30px;
+  margin-right: 80px;
+}
+
+.form1{
+  text-align: center;
 }
