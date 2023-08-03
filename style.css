@@ -223,7 +223,7 @@ padding-top: 10px;
  padding-bottom: 40px;
 }
 .blog_img img{
-  width: 400px;
+  width: 350px;
   height: 270px;
 }
 
@@ -290,6 +290,7 @@ padding-top: 10px;
   width: 500px;
   height: 380px;
   margin-top: 10px;
+  border: 1px solid black;
  
 }
 .contact_heading{
@@ -308,4 +309,25 @@ padding-top: 10px;
 
 .form1{
   text-align: center;
+}
+
+/* footer section start  */
+
+.footer_section{
+  height: 300px;
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: grey;
+  margin-top: 50px;
+}
+
+.copyright-text{
+  font-size: 20px;
+}
+
+.footer_icon{
+  font-size: 2.5rem;
+  color: black;
 }
